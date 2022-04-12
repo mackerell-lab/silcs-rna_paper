@@ -1,7 +1,7 @@
-The binary file for GCMC code is: gcmc_v1.4.10
+### Executable for GCMC code used in the SILCS-RNA paper: gcmc_v1.4.10
 
-executable has been tested for Unix/Linux environments.
+- Should run in Unix/Linux environments.
 
-Usage : gcmc <input_file> <output_file> {optional: -nt <number of threads>}
+### Usage : gcmc_v1.4.10 <input_file> <output_file> {optional: -nt <number_of_threads> }
 
-Example input file is provided with all inputs and outputs.
+Example is provided with all inputs and outputs in the example.tgz file.
